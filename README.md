@@ -1,8 +1,7 @@
 # Gridworld-use-a-rectangular-grid-to-illustrate-value-functions-for-a-simple-finite-MDP-
-
 ## Date: 
-##Name :MohanKumar S
-##Reg No: 2305002014
+## Name: MohanKumar S
+## Reg No: 2305002014
 
 ## Aim
 The aim of this project is to implement a Gridworld environment using Reinforcement Learning concepts to illustrate value functions in a simple finite Markov Decision Process (MDP).
